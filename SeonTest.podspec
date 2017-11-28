@@ -1,15 +1,15 @@
-   #1.
+          #1.
           s.name               = "SeonTest"
           #2.
           s.version            = "1.0.0"
           #3.  
-          s.summary         = "Sort description of 'Seon' framework"
+          s.summary         = "SeonTest Framework is used to test the features of seon sdk."
           #4.
-          s.homepage        = "http://www.yudiz.com"
+          s.homepage        = "http://www.kindlebit.com.com"
           #5.
-          s.license              = "MIT"
+          s.license              = "KBS"
           #6.
-          s.author               = "AKanjariya"
+          s.author               = "KBS"
           #7.
           s.platform            = :ios, "10.0"
           #8.

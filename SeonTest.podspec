@@ -15,4 +15,4 @@
           #8.
           s.source              = { :git => "URL", :tag => "1.0.0" }
           #9.
-          s.source_files     = "YLogging", "YLogging/**/*.{h,m,swift,framework}"
+          s.source_files     = "SeonTest", "SeonTest/**/*.{h,m,swift,framework}"

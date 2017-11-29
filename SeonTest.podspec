@@ -1,3 +1,5 @@
+Pod::Spec.new do |s|
+
           #1.
           s.name               = "SeonTest"
           #2.
@@ -17,3 +19,5 @@
           
           #9.
           s.source_files     = "SeonTest", "SeonTest/**/*.{h,m,swift,framework}"
+
+ end
